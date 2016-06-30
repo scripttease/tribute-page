@@ -1,0 +1,16 @@
+.body {
+  width: 80%;
+  margin: auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+#image1 {
+  max-width: 100%;
+}
